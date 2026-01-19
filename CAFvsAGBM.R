@@ -1,5 +1,5 @@
 library(readr)
-CAFAGBMF <- read_csv("Desktop/Publication/AGBM_photogrammtery.csv")
+CAFAGBMF <- read_csv("Desktop/Publication/AGBM_Field.csv")
 
 # Assume your data is in a data frame called '14CAFAGBMF'
 # ConLAert Genotype to a factor (if it's not already)
