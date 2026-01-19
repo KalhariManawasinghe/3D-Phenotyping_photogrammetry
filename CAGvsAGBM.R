@@ -1,5 +1,5 @@
 library(readr)
-CAGAGBM <- read_csv("Desktop/Publication/CAGAGBM.csv")
+CAGAGBM <- read_csv("Desktop/Publication/AGBM_photogrammtry.csv")
 
 # Assume your data is in a data frame called '14CAGAGBM'
 # ConLAert Genotype to a factor (if it's not already)
